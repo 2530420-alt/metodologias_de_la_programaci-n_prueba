@@ -38,3 +38,6 @@ digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 print(f"minimo: {min(digits)}")  # Salida: minimo: 0
 print(f"maximo: {max(digits)}")  # Salida: maximo: 9
 print(f"suma: {sum(digits)}")    # Salida: suma: 45 
+
+squares = [num**2 for num in range(11)]
+print(squares)
