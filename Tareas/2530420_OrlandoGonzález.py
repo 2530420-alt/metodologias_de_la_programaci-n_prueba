@@ -455,3 +455,10 @@ https://www.datacamp.com/es/tutorial/loops-python-tutorial
 https://realpython.com/python-while-loop/
 https://www.w3schools.com/python/python_while_loops.asp
 """
+# url github
+"""
+https://github.com/2530420-alt/metodologias_de_la_programaci-n_prueba#
+git@github.com:2530420-alt/metodologias_de_la_programaci-n_prueba.git
+
+la neta no sabia cual poner, así que puse los dos
+"""

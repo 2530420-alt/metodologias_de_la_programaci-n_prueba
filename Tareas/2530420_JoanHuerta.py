@@ -598,3 +598,10 @@ https://aprendepython.es/core/datastructures/lists/
 https://www.w3schools.com/python/python_tuples.asp
 https://www.w3schools.com/python/python_dictionaries.asp
 """
+# url github
+"""
+https://github.com/2530420-alt/metodologias_de_la_programaci-n_prueba#
+git@github.com:2530420-alt/metodologias_de_la_programaci-n_prueba.git
+
+la neta no sabia cual poner, así que puse los dos
+"""

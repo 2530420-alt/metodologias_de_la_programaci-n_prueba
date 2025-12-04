@@ -344,3 +344,11 @@ https://www.programiz.com/python-programming/string
 https://realpython.com/python-strings/
 https://docs.python.org/3/library/string.html
 """
+
+# url github
+"""
+https://github.com/2530420-alt/metodologias_de_la_programaci-n_prueba#
+git@github.com:2530420-alt/metodologias_de_la_programaci-n_prueba.git
+
+la neta no sabia cual poner, así que puse los dos
+"""

@@ -414,3 +414,10 @@ https://www.tutorialsteacher.com/python/python-number-type
 https://docs.python.org/3/library/stdtypes.html
 https://python-academy.org/en/guide/numeric-data-types
 """
+# url github
+"""
+https://github.com/2530420-alt/metodologias_de_la_programaci-n_prueba#
+git@github.com:2530420-alt/metodologias_de_la_programaci-n_prueba.git
+
+la neta no sabia cual poner, así que puse los dos
+"""
